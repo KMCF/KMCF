@@ -1,4 +1,5 @@
-# Korean Media Comment
+# KMCF
+**KMCF : Korean Media Comment Filter**
 한국 미디어 댓글 및 소셜미디어 공유 횟수, 좋아요 수, 뉴스 반응을 가려주는 필터 리스트입니다.
 
 **해당 필터는 댓글 기능과 소셜미디어 반응을 가려 피로감을 줄여주고 뉴스를 객관적으로 바라보게 합니다.**
@@ -38,7 +39,7 @@ https://github.com/kmcf/KMCF/raw/master/filter.txt
 [Chrome](https://www.google.co.kr/chrome/index.html) 확장 프로그램 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=ko) 환경에 최적화 되어 있습니다.
 
 
-## 라이센스
+## License
 [Attribution 4.0 International (CC BY 4.0)
 ](https://creativecommons.org/licenses/by/4.0/)
 
