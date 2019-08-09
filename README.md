@@ -1,5 +1,5 @@
 # KMCF
-**KMCF : Korean Media Comment Filter**
+**KMCF : Korean Media Comment Filter**  
 한국 미디어 댓글 및 소셜미디어 공유 횟수, 좋아요 수, 뉴스 반응을 가려주는 필터 리스트입니다.
 
 **해당 필터는 댓글 기능과 소셜미디어 반응을 가려 피로감을 줄여주고 뉴스를 객관적으로 바라보게 합니다.**
