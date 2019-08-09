@@ -30,9 +30,9 @@
 
 ## 사용법
 ```
-https://github.com/KMCF/Korean-Media-Comment/raw/master/filter.txt
+https://github.com/kmcf/KMCF/raw/master/filter.txt
 ```
-![image](https://user-images.githubusercontent.com/38386330/39089096-f43b75fe-45f9-11e8-9530-8bb3e0171cb9.PNG)
+![Howto](https://user-images.githubusercontent.com/21292037/62755549-6fd84b80-baaf-11e9-800d-89c256a8f50e.png)
 `설정` - `보조 필터` 하단에 있는 URL 입력창에 위의 주소를 붙여 넣습니다.
 
 [Chrome](https://www.google.co.kr/chrome/index.html) 확장 프로그램 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=ko) 환경에 최적화 되어 있습니다.
